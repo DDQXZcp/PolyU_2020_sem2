@@ -10,6 +10,14 @@
 
 • Smartphone application (Beyond my knowledge) I haven't taken any related courses 
 
+### Linkin
+
+Marketing、Market Research、Artificial Intelligence、Image Recognition、Social Media、Social Media Analytics、Image Listening、Advertising、Big Data、Big Data Analytics、Image Analytics
+
+人工知能、画像解析、SNS画像分析、画像分析、画像認識和ビッグデータ
+
+Socal network service
+
 ### Requirements of the job description page:
 
 Assist in software developments, may include web design, UI/UX, machine learning, deep learning etc. 
