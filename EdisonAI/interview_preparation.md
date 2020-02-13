@@ -84,4 +84,7 @@ I am interested in IT and AI and I have related knowledge and experience. I woul
 
 ### What to expect
 
+### Soft skill, hard skill
+
+Focusing person, arranging my schdule, I practice when learning to ensure that I master the ideas.
 
