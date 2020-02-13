@@ -22,8 +22,7 @@ Socal network service
 
 Assist in software developments, may include web design, UI/UX, machine learning, deep learning etc. 
 
- Computer Vision, Deep Learning/Machine Learning Algorithm Developer (Python or
-C/C++)
+ Computer Vision, Deep Learning/Machine Learning Algorithm Developer (Python or C/C++)
 
  Back End Developer (node JS & MySQL) EIE3112 this semester
 
@@ -64,9 +63,11 @@ The university mainly teach microcontroller and c++ and I think I am more experi
 The most important things are getting work experience. I know there is an experience gap between professional programmers and myself. I would try to do my best and see whether I can contribute something. Also, whether the assigned task is challenging or simple, I will be serious to my duty. 
 //I know in China, the work of intern students includes doing trivial things, recording changes of the code, trying to correct some Legacy issues. 
 
-Japanese is leading country of techology and industry in Apac. There are many lengendary company like Sony, Toshiba in electronic products. Mitsubishi in heavy industry. Toyota， Honda, Subaru, Isuzu in cars. I have also seen that there are a lot of crazy stuff developed in Japan in the field of Automation, robotics, IT and it really attracts me. 
+To get some cultural exposure and experience the worklife there.
 
-The Japanese has an attitude of focusing, team spirit
+Japan is leading country of techology and industry in Apac. There are many lengendary company like Sony, Toshiba in electronic products. Mitsubishi in heavy industry. Toyota， Honda, Subaru, Isuzu in cars. I have also seen that there are a lot of crazy stuff developed in Japan in the field of Automation, robotics, IT and it really attracts me. 
+
+The Japanese has an attitude of focusing, team spirit, dedicating
 
 
 I have been to Austra(Saltsburg), Germany(Berney and Stuttgart), Australia(Sydney and Brisban), but I haven'y been to Japan yet. I would like to experience the culture there and get more working experience. 
