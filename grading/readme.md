@@ -21,6 +21,19 @@ Outline included.
 
 # EIE3331: Communication Fundamentals
 
+Assessments
+
+Quizzes – 10%
+
+One Midterm Test-20%
+
+Assignments - 10% 
+
+Laboratory – 10% 
+
+Final Exam – 50%
+
+
 # EIE3333: Data and Computer Communications
 
 # EIE3112: Database System
