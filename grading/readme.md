@@ -36,6 +36,19 @@ Final Exam – 50%
 
 # EIE3333: Data and Computer Communications
 
+Continuous Assessment 40
+
+Graded Assignments 6%
+
+Lab Exercises 9%
+
+2 Tests (open book) 25%
+
+Final Examination (3 hours) 60%
+
+(Close book Examination one single sided A4
+clue sheet is allowed)
+
 # EIE3112: Database System
 
 # EIE4413: Digital Signal Processing
