@@ -115,4 +115,28 @@ There are two outline, one for the whole, one for (final) examination
 
 # EIE3105: Integrated Project
 
+### Sem2
+
+Project Demonstration 35
+
+Project Report and Presentation 10
+
+Project Logbook 6
+
+Test (AVR and ARM) 8
+
+Online ARM Programming Test 1
+
+Lab 1 and 2 4
+
+TOTAL 64
+
+### Sem1
+
+4 Lab Exercises (AVR) 16
+
+2 Quizzes (AVR) 20
+
+TOTAL 36
+
 # IC382: Multidisciplinary Manufacturing Project
