@@ -87,6 +87,33 @@ outline: dcc2020-lecture00 - Class B(1).pdf
 
 # EIE4413: Digital Signal Processing
 
+### Short exercises >10 5%
+
+Quizzes conducted in lectures and tutorial classes
+
+### Assignments 2 5%
+
+2 assignments cover all topics
+
+Lab work
+3
+10%
+1, 2, 3, 4, 5, 6
+3 demos and 3 lab reports
+Mid-term Quiz
+1
+10%
+1, 2, 3, 5
+Held in the middle of semester. Cover about half of the topics. Students are allowed to use an A4 size clue sheet in the quiz.
+End of term Test
+1
+10%
+1, 2, 3, 5
+Held in the middle at the end of subject. Cover about the second half of the topics. Students are allowed to use an A4 size clue sheet in the test.
+Examination
+1
+60%
+
 # EIE3105: Integrated Project
 
 # IC382: Multidisciplinary Manufacturing Project
