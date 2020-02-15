@@ -49,7 +49,41 @@ Final Examination (3 hours) 60%
 (Close book Examination one single sided A4
 clue sheet is allowed)
 
+outline: dcc2020-lecture00 - Class B(1).pdf
+
 # EIE3112: Database System
+
+### 5 Knowledge-check Quizzes (1% x 5)
+
+• Purpose: check your knowledge learnt immediately after lecture or flipped classroom
+
+### Mid-term Written Test (15%)
+
+### Video Assignment (5%)
+
+### SQL Challenge Game Assignment (5%)
+
+• Level 0 to Level 5
+
+• Get 5% if you finally achieved Level 5
+
+• Deadline: End of semester 2
+
+### 3 Labs, 2 Reports (10% x 2)
+
+• Lab1: SQL
+
+• Lab2: Advanced SQL
+
+• Lab3: Data Mining and Big Data Analytics
+
+• Choose any two labs to submit lab reports.
+
+• If you submit all three lab reports, the highest two scores would be counted.
+
+• Deadline for each Lab report: ONE week after the corresponding Lab
+
+### Exam (50%)
 
 # EIE4413: Digital Signal Processing
 
