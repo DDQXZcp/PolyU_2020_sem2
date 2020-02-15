@@ -3,9 +3,13 @@
 ## Assessment Methods**
 
 Continuous Assessment: 40%
+
   Participation (Tutorial sessions) 5%
+  
   Midterm Test (Apr 18; 2:15-3:30pm) 20%
+  
   Individual Assignment (Due: May 15 before 5pm) 15%
+  
 Final Examination 60%
 
 **To pass this subject, students are required to obtain Grade D or above in BOTH the
