@@ -87,6 +87,8 @@ outline: dcc2020-lecture00 - Class B(1).pdf
 
 # EIE4413: Digital Signal Processing
 
+Title format: Task No. percentage
+
 ### Short exercises >10 5%
 
 Quizzes conducted in lectures and tutorial classes
@@ -95,24 +97,21 @@ Quizzes conducted in lectures and tutorial classes
 
 2 assignments cover all topics
 
-Lab work
-3
-10%
-1, 2, 3, 4, 5, 6
+### Lab work 3 10%
+
 3 demos and 3 lab reports
-Mid-term Quiz
-1
-10%
-1, 2, 3, 5
+
+### Mid-term Quiz 1 10%
+
 Held in the middle of semester. Cover about half of the topics. Students are allowed to use an A4 size clue sheet in the quiz.
-End of term Test
-1
-10%
-1, 2, 3, 5
+
+### End of term Test 1 10%
+
 Held in the middle at the end of subject. Cover about the second half of the topics. Students are allowed to use an A4 size clue sheet in the test.
-Examination
-1
-60%
+
+### Examination 1 60%
+
+There are two outline, one for the whole, one for (final) examination
 
 # EIE3105: Integrated Project
 
