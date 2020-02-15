@@ -2,7 +2,7 @@
 
 ## Assessment Methods**
 
-Continuous Assessment: 40%
+Continuous Assessment:
 
   Participation (Tutorial sessions) 5%
   
@@ -14,6 +14,8 @@ Final Examination 60%
 
 **To pass this subject, students are required to obtain Grade D or above in BOTH the
 Continuous Assessment and Final Examination components. 
+
+online tutorial starts from week3, Feb24
 
 Outline included.
 
