@@ -48,4 +48,42 @@ BOD = Brown-out Detection
 
 When the input voltage is lower than a specified threshold (e.g., I expect 5V, but we have 4.95Vonly), then we shut down the microcontroller to protect the chips inside
 
-Remember it now?
+BOD in AVR is quite similar to BKIN in ARM
+
+BOD is to protect the microcontroller
+
+BINK is to protect the connected external device
+
+About this setting, we may use TIM1_BKIN to send PWM to a connected external device
+
+When BKIN gets an event (e.g., the external device has hardware problem), then a hardware protection mechanism is executed to disable the PWM outputs
+
+ETR = External Trigger Input
+
+TR = Trigger
+
+External clock source is used to capture input
+
+not internal clock
+
+Google "TIM1_ETR STM32"
+
+Google "TIM1_BKIN STM32"
+
+only few channels are used for IC, the rest of them are used for PWM
+
+TI1 = IC2, TI2= IC1, TI3 = IC4, TI4 = IC3
+
+A Hall effect sensor is a device that is used to measure the magnitude of a magnetic field. Its output voltage is directly proportional to the magnetic field strength through it.
+
+Hall effect sensors are used for proximity sensing, positioning, speed detection, and current sensing applications.
+
+The ARM microcontroller can be used to measure the speed of a Formula 1
+
+EIE2100
+
+The transient state of RCL circuit
+
+First-order transient state
+
+First-order differential equation
