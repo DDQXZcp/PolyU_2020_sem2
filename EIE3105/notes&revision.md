@@ -43,3 +43,9 @@ BKIN is to design to handle break features (events)
 BOD in AVR?
 
 Still remember "BOD" in AVR?
+
+BOD = Brown-out Detection
+
+When the input voltage is lower than a specified threshold (e.g., I expect 5V, but we have 4.95Vonly), then we shut down the microcontroller to protect the chips inside
+
+Remember it now?
