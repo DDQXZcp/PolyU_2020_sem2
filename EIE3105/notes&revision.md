@@ -87,3 +87,33 @@ The transient state of RCL circuit
 First-order transient state
 
 First-order differential equation
+
+noise canceller in AVR?
+
+About Input Capture in AVR
+
+In Input Capture in AVR
+
+we have a bit to enable/disable noise canceller. When the bit is set, we enable noise canceller
+
+It means the measurement will start when the measured periods of EIGHT successive waveforms are the same.
+
+We declare there is no noise, so we start the measurement and get the measured value
+
+In ARM, we have something similar, 0 to F (16 in decimal), ARM is more powerful than AVR
+
+AVR: a choice to have a filter or not, ARM: a choice to have a filter or not and you can select the number of successive waveforms for the measurement
+
+no filter (TIM_ICFilter = 0)
+
+TIM3_CH1_PWM_init = GPIO + TIM3 + OC
+
+OC = Output Compare (in AVR)
+
+OC = Output Channel (in ARM)
+
+Output Compare = Output Channel = PWM
+
+0.01 ms = resolution
+
+Period = 5000 (50 ms = 5000 x 0.01 ms)
