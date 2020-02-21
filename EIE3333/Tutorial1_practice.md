@@ -28,5 +28,7 @@ The logical address is the network layer address, i.e. IP address, which is used
 
 The physical address (one per network interface) is the link layer address, which is used to uniquely identify the device.
 
+13. The application layer services include file transfer, remote access, shared database, mail services.
 
+14. Application layer in TCP/IP = session, presentation, application layer in OSI
 (Telephone Band limit to 4kHz in the past, now we use new technique)
