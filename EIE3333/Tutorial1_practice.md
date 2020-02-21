@@ -27,4 +27,6 @@ Header includes: destination address, source address, packet length, protocol in
 The logical address is the network layer address, i.e. IP address, which is used to  identify the network as well as the host. The prefix (called network ID) is to identify the network and the remaining part (called host ID) is to identify the host.
 
 The physical address (one per network interface) is the link layer address, which is used to uniquely identify the device.
-(Band limit to 4kHz in the past)
+
+
+(Telephone Band limit to 4kHz in the past, now we use new technique)
