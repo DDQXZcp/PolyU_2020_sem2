@@ -12,4 +12,12 @@
 
 7. Shannon capacity is to determine the maximum information rate in noisy channel
 
-8. Unipolar, Polar, Bipolar, Multilevel, Multitransition
+9. Unipolar, Polar, Bipolar, Multilevel, Multitransition
+
+8. Baseband transmission means sending a digital or analog signal without modulation using a low-pass filter. Broadband transmission means sending a data modulated by a band-pass filter.
+
+10. A data element is the smallest entity that can represent a piece of information(a bit). A signal element is the shortest unit of digital signal. A data element is what we want to send. A signal element is what we can send. A data element is to be carried. A signal element are the carriers.
+
+11. The data rate defines the number of data elements we can send in one second. The unit is bits per second. The signal rate defines the signal elements we can send in one second. The unit is baud.
+
+12.When the voltage level of a digital system is constant for a while, the spectrum creates very low frequencies, called DC components, that presents problem for a system that cannot pass low freqencies.
