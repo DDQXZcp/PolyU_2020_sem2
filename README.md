@@ -68,11 +68,11 @@ Quiz 3 (complete)
 
 # IC382: Multidisciplinary Manufacturing Project
 
-Motor (complete)
+| Motor | (complete)|
 
-Kinematic (complete)
+| Kinematic | (complete)|
 
-PS4 (incomplete)
+|PS4 |(incomplete)|
 
 # Robocon
 
@@ -81,3 +81,5 @@ Master-slave in one board (complete)
 CAN in one line (incomplete)
 
 IMU (incomplete)
+
+HFI （incomplete）
