@@ -137,3 +137,13 @@ Thus, it takes a longer time (maybe)
 For your reference
 
 Period = 5000 (50 ms = 5000 x 0.01 ms)
+
+ADC12 = ? 12 ADCs? ADC12 = ADC1 and ADC2 If we have three ADCs (ADC1, ADC2 and ADC3), the most probably we call it ADC123
+
+ADC12: the pin definitions are appropriate for both ADC1 and ADC2
+
+INx = input channel x
+
+16 channels -> 16 pins
+
+IN0 -> PA0
