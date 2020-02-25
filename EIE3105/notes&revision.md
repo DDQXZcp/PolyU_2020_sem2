@@ -147,3 +147,29 @@ INx = input channel x
 16 channels -> 16 pins
 
 IN0 -> PA0
+
+come from software -> execute a C statement in your program -> polling
+
+come from signal -> an interrupt to trigger the ADC -> interrupt
+
+Single conversion -> we just want to get a reading when we need
+
+Single conversion -> do it when we request
+
+Continuous conversion -> keep monitoring
+
+Example: fire alarm
+
+We select continuous conversion for the temperature sensor in an alarm.
+
+When the reading is higher than 60 degrees, we turn on the alarm.
+
+For a human being, we will do the calculation
+
+Consider 4 bits, the voltage range is 0 to 5V.
+
+0000 represents 0V
+
+1111 represents 5V
+
+The input voltage is 3.45V.
