@@ -116,4 +116,24 @@ Output Compare = Output Channel = PWM
 
 0.01 ms = resolution
 
+# 20200225
+
+56 MHz is the clock frequency for ADC
+
+for ADC but not the microcontroller
+
+In AVR, clock for the ADC = clock for the CPU
+
+In ARM, we need to select a clock for two ADCs
+
+1.17 us at 72 MHz
+
+faster clock frequency does not mean give you shorter conversion time
+
+If the clock frequency is too fast, the ADC may not have enough time to do the conversion. So it takes more clock cycles to complete the conversion
+
+Thus, it takes a longer time (maybe)
+
+For your reference
+
 Period = 5000 (50 ms = 5000 x 0.01 ms)
