@@ -187,3 +187,25 @@ Division operation is too complicated
 So we use comparisons
 
 That is what we call "N-bit approximation"
+
+one digital value represents a range of voltage levels
+
+"0000" represent the voltage between 0V and 0.3125V
+
+"1111" represents the voltage between 4.6875V and 5V
+
+How to use comparisons to find the digital output of 3.45V?
+
+They have a 1-bit difference only
+
+diffrence = measured voltage and the voltage represented by the bit pattern
+
+The winner is "1000"
+
+because its difference is the smallest one among all
+
+The winner -> Among all options, "1000" is the best one to represent the measured voltage because its difference is the smallest one
+
+The difference between "0100" and "1000" is 1 (1 bit)
+
+The difference between "1000" and "1100" is 1 (1 bit)
