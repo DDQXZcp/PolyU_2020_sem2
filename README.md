@@ -67,7 +67,8 @@ Quiz 3 (complete)
 
 
 # IC382: Multidisciplinary Manufacturing Project
-
+| Task|Process|
+| ----|----|
 | Motor | (complete)|
 
 | Kinematic | (complete)|
