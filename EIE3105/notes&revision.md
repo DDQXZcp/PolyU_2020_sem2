@@ -209,3 +209,65 @@ The winner -> Among all options, "1000" is the best one to represent the measure
 The difference between "0100" and "1000" is 1 (1 bit)
 
 The difference between "1000" and "1100" is 1 (1 bit)
+
+Add 1 to the "1" in "0100", we have "1000"
+
+The difference is the difference of the bit pattern
+
+After the second comparison, we know that "1100" is the best bit pattern to represent the measured voltage 3.45V
+
+We take 4 comparisons to get the answer 
+
+14 cycles = 2 cycles for sampling + 1 cycle for one comparison x 12
+
+Nobody asks me "why 13?", In AVR, 13 cycles = 1 cycle  for sampling and 1 cycle for comparison x 12 bits
+
+For differential input, it takes 1.5 cycles for sampling
+
+S&H = Sample and Hold
+
+The leftmost pin is to connect Vcc (5V)
+, The middle pin is to connect to the ADC
+, The rightmost pin is to connect to the ground
+
+Vout = R2 / (R1 + R2) x Voltage supply
+
+"20" is the reading from the ADC
+
+Why we need to connect to PA6
+
+The brightness of the LED is controlled by the potentiometer
+
+We generate a PWM to PA6
+
+The brightness of the LED is depended on the pulse width of the PWM, the % of duty cycle
+
+We assign the reading from the ADC (PA0) to the pulse width of the PWM
+
+So when you turn the potentiometer in the clockwise direction, the distance between the wiper and the point B decreases and so the voltage drop between these two points decreases.
+
+The reading decreases and also the pulse width of the PWM
+
+the LED dims, and vice versa
+
+We use the brightness of the LED to show the reading from the potentiometer
+
+ADC1_1channel_init = GPIO + ADC configuration + ADC reset
+
+setup the ADC clock
+
+clock frequency of the ARM microcontroller is 72 MHz
+
+The ADC is made by a third party, not ARM
+
+Embed this ADC into ARM
+
+Select Div6
+
+When you get a new microcontroller and you need to use his ADC, please check the brand name or the model number of the ADC and find out the possible clock frequency range and then set the ADC clock properly
+
+1, 2 or 3 are for all STM32 family members
+
+In STM32F103RBT6, we have two ADCs only
+
+So x = 1 or 2
