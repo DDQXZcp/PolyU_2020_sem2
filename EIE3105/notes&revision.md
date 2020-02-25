@@ -173,3 +173,17 @@ Consider 4 bits, the voltage range is 0 to 5V.
 1111 represents 5V
 
 The input voltage is 3.45V.
+
+Do the calculation: 3.45 V / 5V x 15 = 10.35
+
+To get the integer part, the digital output is 10 (decimal)
+
+In binary, it should 1010
+
+In microcontroller programming, we never do the division
+
+Division operation is too complicated
+
+So we use comparisons
+
+That is what we call "N-bit approximation"
