@@ -71,9 +71,9 @@ Quiz 3 (complete)
 | ----|----|
 | Motor | (complete)|
 
-| Kinematic | (complete)|
+| Kinematic | (complete) |
 
-|PS4 |(incomplete)|
+|PS4 |(incomplete) |
 
 # Robocon
 
