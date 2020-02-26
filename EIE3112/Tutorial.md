@@ -89,3 +89,12 @@ FROM items_ordered
 WHERE item LIKE 'S%'
 OR item LIKE 'P%'
 OR item LIKE 'F%';
+
+### 10 Select the date, item, and price from the items_ordered table for all of the rows that have a price value ranging from 10.00 to 80.00.
+~~~
+SELECT order_date, item, price
+
+FROM items_ordered
+ 
+WHERE price BETWEEN 10 AND 80;
+~~~
