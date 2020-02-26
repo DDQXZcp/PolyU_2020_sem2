@@ -69,6 +69,8 @@ FROM items_ordered
 
 WHERE item NOT IN('Snow Shoes','Ear Muffs');
 ~~~
+where NOT IN遇到有null value的row会整个显示NULL
+这个是严重的error, 慎用
 ### 9. Select the item and price of all items that start with the letters 'S', 'P', or 'F'.
 There is no combination of LIKE & IN in SQL, much less in TSQL (SQL Server) or PLSQL (Oracle). Part of the reason for that is because Full Text Search (FTS) is the recommended alternative.
 
