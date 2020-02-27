@@ -48,6 +48,8 @@ Tutorial 1 (complete)
 
 Tutorial 2 (complete)
 
+Tutorial 3 (complete)
+
 # EIE4413: Digital Signal Processing
 
 Lecture 1 revision (incomplete)
