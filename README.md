@@ -8,11 +8,12 @@ EIE3112 Flipped classroom
 
 # AF3313: Business Finance
 
-Lecture video CH1 (completed)
-
-Lecture video CH4 (completed)
-
-e_tutorial CH2 (completed)
+| Task|Process|
+| ----|----|
+|Lecture video CH1 | (completed)|
+|Lecture video CH4 |(completed)|
+|Lecture video CH5 |(completed)|
+|e_tutorial CH2| (completed)|
 
 # EIE3331: Communication Fundamentals
 
