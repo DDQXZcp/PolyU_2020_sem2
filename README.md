@@ -79,7 +79,7 @@ Quiz 3 (complete)
 
 Master-slave in one board (complete)
 
-CAN in one line (incomplete)
+CAN in one line (half-complete)
 
 IMU (incomplete)
 
