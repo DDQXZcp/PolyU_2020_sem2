@@ -85,3 +85,7 @@ CAN in one line (half-complete)
 IMU (incomplete)
 
 HFI （incomplete）
+
+# Scholaership
+
+Reaching out award, March 10
