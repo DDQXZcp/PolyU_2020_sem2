@@ -19,7 +19,7 @@ EIE3112 Flipped classroom
 
 Lecture 1 revision (completed)
 
-Lecture 2 revision (incomplete)
+Lecture 2 revision (completed)
 
 Lecture 3 revision (incomplete)
 
@@ -36,6 +36,8 @@ Lecture 3 revision (incomplete)
 Tutorial 1 (complete)
 
 Tutorial 2 (complete)
+
+Tutorial 3 (complete)
 
 # EIE3112: Database System
 
@@ -89,3 +91,15 @@ HFI （incomplete）
 # Scholaership
 
 Reaching out award, March 10
+
+# Research
+
+Paper Reading
+
+# EIE522
+
+Lecture 1
+
+# GRE
+
+GRE单词书 4000词背完
