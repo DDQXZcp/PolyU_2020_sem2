@@ -19,13 +19,13 @@ EIE3112 Flipped classroom
 
 # EIE3331: Communication Fundamentals
 
-Lecture 1 revision (completed)
-
-Lecture 2 revision (completed)
-
-Lecture 3 revision (incomplete)
-
-Tutorial 1 (incomplete)
+| Task|Process|
+| ----|----|
+|Lecture 1 revision |(completed)|
+|Lecture 2 revision |(completed)|
+|Lecture 3 revision |(incomplete)|
+|Tutorial 1 |(complete)|
+|Tutorial 2 |(incomplete)|
 
 # EIE3333: Data and Computer Communications
 
