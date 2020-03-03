@@ -272,7 +272,7 @@ In STM32F103RBT6, we have two ADCs only
 
 So x = 1 or 2
 
-### 20200303
+# 20200303
 
 It looks like the conversion speed is doubled
 
@@ -432,3 +432,5 @@ If there are 10 devices, then the transfer rate is 0.1 task/second for the origi
 We make use of DMA but not CPU so that peripherals and computer memory can communicate with each other very well
 
 ### We do not need CPU to support the communication between peripherals and computer memory
+
+### ADC1_3channels_init = GPIO + ADC configuration + ADC callibration + DMA configuration + NVIC
