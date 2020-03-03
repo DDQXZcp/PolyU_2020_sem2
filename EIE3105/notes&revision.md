@@ -353,3 +353,46 @@ H = High byte
 Low = low byte
 
 ADLAR: to select it is right or left justified
+
+Why we need ADC calibration?
+
+### Second Half
+VIN = input voltage
+
+When we compare the voltage with different pre-set voltages, each pre-set voltage comes from a RC circuit
+
+RC = Resistor-Capacitor
+
+You learn it from EIE2100
+
+Measurement error
+
+Measurement error = ADC error
+
+Calibrate the ADC before we use
+
+V_AIN = Analog input voltage
+
+Digital output = output digital reading
+
+real environment
+
+humidty, temperature
+
+input noise (input analog signal with noise)
+
+Each time when we do the measurement, the environment may be different
+
+And so the errors may be different
+
+Before we do the measurement, we must remove all settings that used before (reset) and do the calibration to minimize the effect of all errors
+
+An ADC takes time to reset the calibration
+
+We need a while loop to do the checking
+
+When the reset process is done, the function ADC_GetResetCalibrationStatus(ADC1) will return false so that we can leave the while loop
+
+We will leave the while loop only when the reset is completed
+
+We will leave the while loop only when the calibration is completed
