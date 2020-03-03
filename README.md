@@ -79,6 +79,8 @@ Quiz 3 (complete)
 |Motor| (complete)|
 | Kinematic | (complete) |
 |PS4 |(incomplete) |
+|Block diagram |(complete) |
+|I/O table |(incomplete) |
 
 # Robocon
 
@@ -92,11 +94,15 @@ HFI （incomplete）
 
 # Scholaership
 
-Reaching out award, March 10
+| Task|Process|
+| ----|----|
+|Reaching out award, March 10|(incomplete)|
 
 # Research
 
 Paper Reading
+
+做笔记
 
 # EIE522
 
@@ -105,3 +111,26 @@ Lecture 1
 # GRE
 
 GRE单词书 4000词背完
+
+# Japan WIE
+
+| Task|Process|
+| ----|----|
+|Reply caps| (complete)|
+|Offer Acceptance Form| (incomplete) |
+|Offer Acceptance Relevant Information |(incomplete) |
+|Endorsement| (incomplete) |
+| Visa Application |(incomplete) |
+|Pre-WIE Training |(incomplete) |
+
+# EIE WIE
+
+| Task|Process|
+| ----|----|
+|天文台申请|(incompleted)|
+|还有一个申请|(incompleted)|
+
+# EIE Activity
+
+Confirmed Minutes of Student/Staff Consultative Group Meeting
+
