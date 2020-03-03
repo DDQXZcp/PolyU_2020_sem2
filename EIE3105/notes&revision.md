@@ -396,3 +396,39 @@ When the reset process is done, the function ADC_GetResetCalibrationStatus(ADC1)
 We will leave the while loop only when the reset is completed
 
 We will leave the while loop only when the calibration is completed
+
+We start the conversion and the conversion will be continuous after that by executing the highlighted statement
+
+We will leave the while loop if it is ready to get the reading from the potentiometer
+
+If it is the end of the conversion, the function returns SET (not RESET) and we leave the while loop because the statement inside the while loop is false
+
+To set the ADC reading as the pulse width of the PWM
+
+Any questions about ADC?
+
+Move to DMA
+
+DMA = Direct Memory Access
+
+For example, you get the reading is 1.5V
+
+The range of your ADC is from 0 to 3V
+
+Then you have the digital value 000001000000
+
+You set this value to the pulse width of the PWM
+
+Then you change the duty cycle of the PWM.
+
+So you can recognize it through the brightness of the LED
+
+it is because the brightness of the LED is directly proportional to the % of duty cycle
+
+For example, it takes 1 second to finish one task. Then now the transfer rate is not 1 task/sec
+
+If there are 10 devices, then the transfer rate is 0.1 task/second for the original device
+
+We make use of DMA but not CPU so that peripherals and computer memory can communicate with each other very well
+
+### We do not need CPU to support the communication between peripherals and computer memory
