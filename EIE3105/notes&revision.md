@@ -470,3 +470,21 @@ peripheral -> computer memory in our example
 peripheral is the source
 
 ARRAYSIZE = 3 (defined in the header file)
+
+Disable
+
+1 single peripheral, so the address should not be changed
+
+we have three memory locations
+
+so, yes, we need to increment the memory location when we get the reading
+
+HalfWord = 16 bits
+
+Circular
+
+channel 0 -> channel 1 -> channel 4 -> channel 0 ...
+
+High (it does not matter)
+
+We will make use of the interrupt handler（就像状态机一样，可以用if实现）
