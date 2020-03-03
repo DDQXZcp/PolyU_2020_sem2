@@ -434,3 +434,39 @@ We make use of DMA but not CPU so that peripherals and computer memory can commu
 ### We do not need CPU to support the communication between peripherals and computer memory
 
 ### ADC1_3channels_init = GPIO + ADC configuration + ADC callibration + DMA configuration + NVIC
+
+&ADC1->DR = the address of the data member DR in the object pointed by the pointer variable ADC1
+
+DR = Data Register
+
+When an ADC finishes its conversion, the result is stored in DR.
+
+That means if we use ADC1 to do the conversion, the result is stored in ADC1->DR
+
+We have one DR in ADC1 but we connect three different devices to ADC1 (so we have three channels)
+
+### So we have to copy the value of DR from ADC1 before ADC1 starts the next conversion， otherwise, the value of DR may be accidentally overwritten by the second reading
+
+We have one DR but three computer memory locations to store the readings from three different devices
+
+So we create the array ADC_values， It has three elements
+
+channel 0 -> ADC_values[0]
+
+channel 1 -> ADC_values[1]
+
+channel 4 -> ADC_values[2]
+
+peripheral -> peripheral
+
+peripheral -> computer memory
+
+computer memory -> peripheral
+
+computer memory -> computer memory
+
+peripheral -> computer memory in our example
+
+peripheral is the source
+
+ARRAYSIZE = 3 (defined in the header file)
