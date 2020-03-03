@@ -5,6 +5,8 @@ PolyU_2020_sem2 revision note
 
 通过理解与表达来学习，费曼学习法
 
+每一节上课后都写一次回顾，看看自己记得多少
+
 ### 20200225
 EIE3112 Flipped classroom
 
