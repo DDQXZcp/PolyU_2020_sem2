@@ -271,3 +271,85 @@ When you get a new microcontroller and you need to use his ADC, please check the
 In STM32F103RBT6, we have two ADCs only
 
 So x = 1 or 2
+
+### 20200303
+
+It looks like the conversion speed is doubled
+
+Two persons share the same job
+
+We have only one external trigger source
+
+But two ADCs take the turn to handle the external trigger
+
+Two persons share the same job
+
+But the difference is: we can get the trigger more frequently
+
+This case is good if the external trigger comes very frequently so that one ADC may not handle all of them properly
+
+interleaved mode (two ADCs work on one channel only) + inject mode (once we received an injected trigger, two ADCs work on the inject trigger at the same time)
+
+When the injected conversion is completed, we go back to interleaved mode
+
+FastInter1 = fast interleaved
+
+SlowInter1 = slow interleaved
+
+It supports single mode and continuous mode
+
+single channel and multiple channels
+
+In our example, we select ADC_Mode_Independent
+
+DISABLE
+
+single channel
+
+ENABLE
+
+Continuous mode
+
+We keep monitoring the reading from the potentiometer
+
+Choose what triggers the conversion
+
+When the counter in Timer 1 reaches the value of CC1, start the conversion
+
+ADC_ExternalTrigConv_T1_CC1: when the counter in Timer 1 reaches the value of CC1, start the conversion
+
+TRGO
+
+trigger in a certain period of timer defined in Timer 3
+
+T3_TRGO = if time out, start the conversion
+
+SWSTART = Software Start
+
+SWSTART = we execute a statement in the program to start the conversion
+
+ADC_CR2 = ADC Control Register 2
+
+In ADC_CR2, we have EXTSEL[2:0]
+
+EXTSEL = External Select
+
+We have three bits in ADC_CR2 to select an external trigger
+
+EXTSEL = 111 -> SWSTART
+
+Assign a constant to the field ADC_ExternalTrigConv
+
+can do the same thing
+
+To Assign ADC_ExternalTrigCoonv_None to ADC_ExternalTrigConv is the same as to set 111 to EXTSEL
+
+We can call a function to start the conversion
+
+ADCH:ADCL
+
+H = High byte
+
+Low = low byte
+
+ADLAR: to select it is right or left justified
