@@ -45,17 +45,15 @@ Tutorial 3 (complete)
 
 # EIE3112: Database System
 
-Lecture 1 revision (incomplete)
-
-Lecture 2 revision (incomplete)
-
-Lecture 3 flipped classroom (complete)
-
-Tutorial 1 (complete)
-
-Tutorial 2 (complete)
-
-Tutorial 3 (complete)
+| Task|Process|
+| ----|----|
+|Lecture 1 revision |(incomplete)|
+|Lecture 2 revision |(incomplete)|
+|Lecture 3 flipped classroom |(complete)|
+|Lecture 4 flipped classroom |(complete)|
+|Tutorial 1 |(complete)|
+|Tutorial 2 |(complete)|
+|Tutorial 3 |(complete)|
 
 # EIE4413: Digital Signal Processing
 
@@ -119,7 +117,7 @@ GRE单词书 4000词背完
 | Task|Process|
 | ----|----|
 |Reply caps| (complete)|
-|Offer Acceptance Form| (incomplete) |
+|Offer Acceptance Form| (complete) |
 |Offer Acceptance Relevant Information |(incomplete) |
 |Endorsement| (incomplete) |
 | Visa Application |(incomplete) |
