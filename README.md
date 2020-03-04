@@ -92,6 +92,8 @@ IMU (incomplete)
 
 HFI （incomplete）
 
+Collect Robocon participation from Frank(incomplete)
+
 # Scholaership
 
 | Task|Process|
