@@ -11,3 +11,9 @@ Need to train a hidden Markov Model &
 ### Introduction
 
 the restored frame from a clip we call Cliff
+
+
+
+### Moving edge detection
+
+Because there are Falsed alarms near moving edge 
