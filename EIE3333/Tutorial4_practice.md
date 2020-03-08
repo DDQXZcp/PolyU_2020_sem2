@@ -87,4 +87,20 @@ For the last windows, we need to wait for the acknowledgement of the last frame,
 
 Total delay = 249 x 51 ms + 4 tframe + 2tprop = 12.699 + 0.054 = 12.753s
 
-其实核心就是因为最后一个window后面加了 2tprop， 3种情况都一样的
+其实核心就是因为：除最后一个window，时间为tframe + 2tprop, 最后一个frame是 n * tframe + 2tprop
+
+6. Assume we need to design a Go-Back-N sliding window protocol for a network in which
+the bandwidth is 100 Mbps and the average distance between the sender and receiver is
+10,000km. Assume the average frame size is 100,000 bits and the propagation speed in the
+media is 2×108 m/s. Find the maximum size of the send and receive windows, the number
+of bits in the sequence number field (m) and an appropriate time-out value for the timer.
+
+RTT = 2 × (10,000 Km) / (2 × 108) = 100ms
+Frame transmission time tframe = 100,000 bits / 100 Mbps = 1ms
+To achieve 100% utilization, we have
+W tframe = tframe + RTT  (W-1) tframe = RTT
+W-1 = 100  W=101
+Hence, the send window size is 101 and the receive window size is 1. The number of bits in the sequence
+number field (m) is 7 and the sequence number is from 0 to 127. The time out value should be greater
+than RTT to avoid early retransmission of the frame.
+
