@@ -56,10 +56,35 @@ Total delay = 1000*51ms = 51s
 4. Repeat Question 3 using the Go-Back-N ARQ protocol with a window size of 7. Ignore the
 overhead due to the header and trailer.
 
-For all frames exept the last frame
+The time for the first ack arrives = tframe + 2tprop = 51ms (2a+1)
+
+The time for sending 7 frames = 7 tframe = 7ms (W)
+
+### So the utilization is not 1 and the server has to wait. In this case, each window transmission takes 51ms.
+
+For all frames exept the last window
 
 The time for one transmission cycle (1 frame) = tframe + 2tprop = 51ms
 
-For the last frame
+For the last window
 
-The time for one transmission cycle (1 frame) = tframe + 2tprop = 51ms
+The time for one transmission cycle (1 frame) = 6frame + 2tprop = 6 + 2=8ms
+
+Total time = 51*142 + 8 = 7.298s
+
+5. Repeat Question 3 using the Selective-Repeat ARQ protocol with a window size of 4.
+Ignore the overhead due to the header and trailer.
+
+We need to send 1000/4 = 250 windows
+
+The time for the first ack arrives = tframe + 2tprop = 51ms
+
+The time for sending 4 frames = 4 tframe = 4ms
+
+So the utilization is not 1 and the server has to wait. In this case, each window transmission takes 51ms.
+
+For the last windows, we need to wait for the acknowledgement of the last frame, so
+
+Total delay = 249 x 51 ms + 4 tframe + 2tprop = 12.699 + 0.054 = 12.753s
+
+其实核心就是因为最后一个window后面加了 2tprop， 3种情况都一样的
