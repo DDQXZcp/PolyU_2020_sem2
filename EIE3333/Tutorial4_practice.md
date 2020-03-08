@@ -104,3 +104,11 @@ Hence, the send window size is 101 and the receive window size is 1. The number 
 number field (m) is 7 and the sequence number is from 0 to 127. The time out value should be greater
 than RTT to avoid early retransmission of the frame.
 
+7. Draw the sender and receiver windows for a system using Selective Repeat ARQ (3-bits for sequence
+number), given the following:
+a) Frame 0 is sent; frame 0 is acknowledged.
+b) Frame 1 and 2 are sent; frames 1 and 2 are acknowledged.
+c) Frame 3, 4 and 5 are sent; frame 4 is acknowledged; timer for frame 5 expires.
+d) Frame 5, 6 and 7 are sent; frames 4 through 7 are acknowledged.
+
+![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE3333/Tut4Q7.jpg)
