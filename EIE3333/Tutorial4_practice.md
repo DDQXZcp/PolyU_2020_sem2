@@ -41,4 +41,25 @@ or damaged.
 
 ![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE3333/Tut4Q2.jpg)
 
+3. A system uses the Stop-and-Wait ARQ protocol. If each data frame carries 1000 bits of
+data, how long does it take to send 1 million bits of data if the distance between sender and
+receiver is 5000 Km and the propagation speed is 2 x 108 m? Given the data rate of the link
+is 1 Mbps. Ignore waiting, and processing delays. We assume no data or control frame is
+lost or damaged.
 
+10^6/1000 = 1000 frames, Data frame propagation time = 5000,000/2*10^8 = 25ms, Data frame transmission time = 1000 / 10^6 = 1ms (per frame)
+
+The time for one transmission cycle (1 frame) = tframe + 2tprop = 51ms
+
+Total delay = 1000*51ms = 51s
+
+4. Repeat Question 3 using the Go-Back-N ARQ protocol with a window size of 7. Ignore the
+overhead due to the header and trailer.
+
+For all frames exept the last frame
+
+The time for one transmission cycle (1 frame) = tframe + 2tprop = 51ms
+
+For the last frame
+
+The time for one transmission cycle (1 frame) = tframe + 2tprop = 51ms
