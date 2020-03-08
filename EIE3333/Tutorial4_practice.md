@@ -39,6 +39,6 @@ number starts with 0, what is the sequence number after sending 100 packets?
 diagram for four frames if the round trip delay is 4ms. Assume no data frame or control frame is lost
 or damaged.
 
-![image](https://github.com/DDQXZcp/PolyU_2020_sem2/tree/master/EIE3333/Tut4Q2.jpg)
+![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE3333/Tut4Q2.jpg)
 
 
