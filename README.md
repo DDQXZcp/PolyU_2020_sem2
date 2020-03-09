@@ -31,17 +31,16 @@ EIE3112 Flipped classroom
 
 # EIE3333: Data and Computer Communications
 
-Lecture 1 revision (completed)
-
-Lecture 2 revision (incomplete)
-
-Lecture 3 revision (incomplete)
-
-Tutorial 1 (complete)
-
-Tutorial 2 (complete)
-
-Tutorial 3 (complete)
+| Task|Process|
+| ----|----|
+|Lecture 1 revision |(completed)|
+|Lecture 2 revision |(incomplete)|
+|Lecture 3 revision| (incomplete)|
+|Tutorial 1 |(complete)|
+|Tutorial 2| (complete)|
+|Tutorial 3 |(complete)|
+|Tutorial 4 |(complete)|
+|Assignment, March 13|(incomplete)|
 
 # EIE3112: Database System
 
@@ -54,21 +53,23 @@ Tutorial 3 (complete)
 |Tutorial 1 |(complete)|
 |Tutorial 2 |(complete)|
 |Tutorial 3 |(complete)|
+|VideoAssignment, March 11 23:59 |(incomplete)|
 
 # EIE4413: Digital Signal Processing
 
-Lecture 1 revision (incomplete)
+| Task|Process|
+| ----|----|
+|Lecture 1 revision |(incomplete)|
+|Lecture 2 revision| (incomplete)|
 
-Lecture 2 revision (incomplete)
-
-
-Quiz 1 (complete)
-
-Quiz 2 (complete)
-
-Quiz 2B (complete)
-
-Quiz 3 (complete)
+| Task|Process|
+| ----|----|
+|Quiz 1 |(complete)|
+|Quiz 2| (complete)|
+|Quiz 2B |(complete)|
+|Quiz 3 |(complete)|
+|Quiz 4 |(complete)|
+|Quiz 5, March 13 |(incomplete)|
 
 # EIE3105: Integrated Project
 
@@ -98,7 +99,8 @@ Collect Robocon participation from Frank(incomplete)
 
 | Task|Process|
 | ----|----|
-|Reaching out award, March 10|(incomplete)|
+|Reaching out award, March 10|(complete)|
+|OCW|(incomplete)|
 
 # Research
 
