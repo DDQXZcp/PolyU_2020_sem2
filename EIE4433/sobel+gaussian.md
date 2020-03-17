@@ -52,12 +52,12 @@ int main()
 
 ## Result
 ### source
-![image]
+![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE4433/原图.jpg)
 ### x_grad
-![image]
+![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE4433/x方向.jpg)
 ### y_grad
-![image]
+![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE4433/y方向.jpg)
 ### x+y_grad
-![image]
+![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE4433/x+y.jpg)
 ### After Gaussianblur kernal_size = 3
-![image]
+![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE4433/Gblur.jpg)
