@@ -17,3 +17,9 @@ the restored frame from a clip we call Cliff
 ### Moving edge detection
 
 Because there are Falsed alarms near moving edge 
+
+# Dlib 问题的解决
+
+https://www.cnblogs.com/adaminxie/p/9032224.html
+
+不用原生的pip
