@@ -134,6 +134,14 @@ GRE单词书 4000词背完
 |天文台申请|(incompleted)|
 |还有一个申请|(incompleted)|
 
+# Local WIE
+
+| Task|Link|Process|
+| ----|----|----|
+|VTech申请|https://www.vtech.com/en/job_opportunities/software-engineering-intern/|(incompleted)|
+|WSP申请|https://www.wsp.com/en-CN/careers/graduates/interns-hk|(incompleted)|
+|Disney申请|https://jobs.disneycareers.com/job/lantau-island/professional-internships-2020/391/15123741|(incompleted)|
+
 # EIE Activity
 
 Confirmed Minutes of Student/Staff Consultative Group Meeting
