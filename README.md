@@ -142,6 +142,8 @@ GRE单词书 4000词背完
 |WSP申请|https://www.wsp.com/en-CN/careers/graduates/interns-hk|(incompleted)|
 |Disney申请|https://jobs.disneycareers.com/job/lantau-island/professional-internships-2020/391/15123741|(incompleted)|
 
+错过了IBM，错过了Hong Kong Monetary Authority
+
 # EIE Activity
 
 Confirmed Minutes of Student/Staff Consultative Group Meeting
