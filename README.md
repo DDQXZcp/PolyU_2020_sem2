@@ -129,10 +129,13 @@ GRE单词书 4000词背完
 
 # EIE WIE
 
-| Task|Process|
-| ----|----|
-|天文台申请|(incompleted)|
-|还有一个申请|(incompleted)|
+| Task|Detail|Process|
+| ----|----|----|
+|天文台申请|Application form|(completed)|
+|天文台申请|Send transcript|(completed)|
+|solutionforest|Application form|(incompleted)|
+
+天文台 29 April 2020前出结果 email:17083046d@connect.polyu.hk
 
 # Local WIE
 
