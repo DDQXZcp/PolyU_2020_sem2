@@ -51,3 +51,13 @@ int main()
 ~~~
 
 ## Result
+### source
+![image]
+### x_grad
+![image]
+### y_grad
+![image]
+### x+y_grad
+![image]
+### After Gaussianblur kernal_size = 3
+![image]
