@@ -40,7 +40,7 @@ EIE3112 Flipped classroom
 |Tutorial 2| (complete)|
 |Tutorial 3 |(complete)|
 |Tutorial 4 |(complete)|
-|Assignment, March 13|(incomplete)|
+|Assignment, March 13|(complete)|
 
 # EIE3112: Database System
 
@@ -53,7 +53,7 @@ EIE3112 Flipped classroom
 |Tutorial 1 |(complete)|
 |Tutorial 2 |(complete)|
 |Tutorial 3 |(complete)|
-|VideoAssignment, March 11 23:59 |(incomplete)|
+|VideoAssignment, March 11 23:59 |(complete)|
 
 # EIE4413: Digital Signal Processing
 
@@ -69,7 +69,8 @@ EIE3112 Flipped classroom
 |Quiz 2B |(complete)|
 |Quiz 3 |(complete)|
 |Quiz 4 |(complete)|
-|Quiz 5, March 13 |(incomplete)|
+|Quiz 5, March 13 |(complete)|
+|Assignment1, March 19 |(complete)|
 
 # EIE3105: Integrated Project
 
@@ -82,6 +83,9 @@ EIE3112 Flipped classroom
 |PS4 |(incomplete) |
 |Block diagram |(complete) |
 |I/O table |(incomplete) |
+|Journal March 8 |(incomplete) |
+|Journal March 15 |(incomplete) |
+|Journal March 22 |(incomplete) |
 
 # Robocon
 
@@ -105,6 +109,11 @@ Collect Robocon participation from Frank(incomplete)
 # Research
 
 Paper Reading
+| Task|Process|
+| ----|----|
+|2012|(incomplete)|
+|2016|(incomplete)|
+|2017|(complete)|
 
 做笔记
 
