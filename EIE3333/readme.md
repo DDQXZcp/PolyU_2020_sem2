@@ -104,3 +104,4 @@ line vty 5 15
 !
 end
 ~~~
+If enter in some strange mode, just type exit to return to normal.
