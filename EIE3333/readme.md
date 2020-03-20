@@ -459,3 +459,61 @@ Vlan99 is up, line protocol is up
      0 output errors, 23 interface resets
      0 output buffer failures, 0 output buffers swapped out
 ~~~
+Part 4
+Step 2
+~~~
+C:\>ping 192.168.1.10
+
+Pinging 192.168.1.10 with 32 bytes of data:
+
+Reply from 192.168.1.10: bytes=32 time=4ms TTL=128
+Reply from 192.168.1.10: bytes=32 time=4ms TTL=128
+Reply from 192.168.1.10: bytes=32 time<1ms TTL=128
+Reply from 192.168.1.10: bytes=32 time=5ms TTL=128
+
+Ping statistics for 192.168.1.10:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 5ms, Average = 3ms
+
+C:\>ping 192.168.1.2
+
+Pinging 192.168.1.2 with 32 bytes of data:
+
+Request timed out.
+Reply from 192.168.1.2: bytes=32 time<1ms TTL=255
+Reply from 192.168.1.2: bytes=32 time<1ms TTL=255
+Reply from 192.168.1.2: bytes=32 time<1ms TTL=255
+
+Ping statistics for 192.168.1.2:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+~~~
+~~~
+C:\>ipconfig /all
+
+FastEthernet0 Connection:(default port)
+
+   Connection-specific DNS Suffix..: 
+   Physical Address................: 0010.1105.8627
+   Link-local IPv6 Address.........: FE80::210:11FF:FE05:8627
+   IP Address......................: 192.168.1.10
+   Subnet Mask.....................: 255.255.255.0
+   Default Gateway.................: 192.168.1.1
+   DNS Servers.....................: 0.0.0.0
+   DHCP Servers....................: 0.0.0.0
+   DHCPv6 Client DUID..............: 00-01-00-01-72-10-45-6A-00-10-11-05-86-27
+
+Bluetooth Connection:
+
+   Connection-specific DNS Suffix..: 
+   Physical Address................: 0090.2B4A.6784
+   Link-local IPv6 Address.........: FE80::290:2BFF:FE4A:6784
+   IP Address......................: 0.0.0.0
+   Subnet Mask.....................: 0.0.0.0
+   Default Gateway.................: 0.0.0.0
+   DNS Servers.....................: 0.0.0.0
+   DHCP Servers....................: 0.0.0.0
+   DHCPv6 Client DUID..............: 00-01-00-01-72-10-45-6A-00-10-11-05-86-27
+~~~
