@@ -172,3 +172,9 @@ GRE单词书 4000词背完
 
 Confirmed Minutes of Student/Staff Consultative Group Meeting
 
+# Online course
+
+| Task|Process|
+| ----|----|
+|Standford Algorithm generate certificate, March 27| (incomplete)
+
