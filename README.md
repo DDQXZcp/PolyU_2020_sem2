@@ -41,6 +41,8 @@ EIE3112 Flipped classroom
 |Tutorial 3 |(complete)|
 |Tutorial 4 |(complete)|
 |Assignment, March 13|(complete)|
+|Lab, March 27|(incomplete)|
+|Midterm Past paper, March 27|(imcomplete)|
 
 # EIE3112: Database System
 
@@ -79,11 +81,11 @@ EIE3112 Flipped classroom
 | Task|Process|
 | ----|----|
 |Motor| (complete)|
-| Kinematic | (complete) |
-|PS4 |(incomplete) |
+| Kinematic, change to 4 wheel | (incomplete) |
+|PS2 |(incomplete) |
 |Block diagram |(complete) |
-|I/O table |(incomplete) |
-|Journal March 8 |(incomplete) |
+|I/O table |(complete) |
+|Journal March 8 |(complete) |
 |Journal March 15 |(incomplete) |
 |Journal March 22 |(incomplete) |
 
@@ -99,7 +101,7 @@ HFI （incomplete）
 
 Collect Robocon participation from Frank(incomplete)
 
-# Scholaership
+# Scholarship
 
 | Task|Process|
 | ----|----|
@@ -115,11 +117,20 @@ Paper Reading
 |2016|(incomplete)|
 |2017|(complete)|
 
+Project Proposal
+| Task|Detail|Process|
+| ----|----|----|
+|Project Proposal | Check requirement|(incomplete)|
+|Project Proposal | Conventional Technique|(incomplete)|
+|Project Proposal | Machine learning Technique|(incomplete)|
 做笔记
 
 # EIE522
 
-Lecture 1
+| Task|Process|
+| ----|----|
+|PCA| (complete)|
+|LDA| (complete)|
 
 # GRE
 
@@ -150,6 +161,7 @@ GRE单词书 4000词背完
 
 | Task|Link|Process|
 | ----|----|----|
+|Societe Generale|KYC New Business Onboarding|(completed)|
 |VTech申请|https://www.vtech.com/en/job_opportunities/software-engineering-intern/|(incompleted)|
 |WSP申请|https://www.wsp.com/en-CN/careers/graduates/interns-hk|(incompleted)|
 |Disney申请|https://jobs.disneycareers.com/job/lantau-island/professional-internships-2020/391/15123741|(incompleted)|
