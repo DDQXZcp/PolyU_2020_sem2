@@ -18,4 +18,4 @@ https://shodhganga.inflibnet.ac.in/bitstream/10603/42180/10/10_chapter%202.pdf
 
 x and h have the same length after padding zeros
 
-![image]
+![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE4413/Quiz7Q3.png)
