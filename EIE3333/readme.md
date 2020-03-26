@@ -517,3 +517,43 @@ Bluetooth Connection:
    DHCP Servers....................: 0.0.0.0
    DHCPv6 Client DUID..............: 00-01-00-01-72-10-45-6A-00-10-11-05-86-27
 ~~~
+Step 3
+~~~
+S1#show mac address-table
+          Mac Address Table
+-------------------------------------------
+
+Vlan    Mac Address       Type        Ports
+----    -----------       --------    -----
+
+  99    0010.1105.8627    DYNAMIC     Fa0/6
+S1#show mac address-table ?
+  dynamic     dynamic entry type
+  interfaces  interface entry type
+  static      static entry type
+  <cr>
+S1#show mac address-table 
+          Mac Address Table
+-------------------------------------------
+
+Vlan    Mac Address       Type        Ports
+----    -----------       --------    -----
+
+  99    0010.1105.8627    DYNAMIC     Fa0/6
+~~~
+ping 
+~~~
+C:\>ping 192.168.1.2
+
+Pinging 192.168.1.2 with 32 bytes of data:
+
+Reply from 192.168.1.2: bytes=32 time<1ms TTL=255
+Reply from 192.168.1.2: bytes=32 time<1ms TTL=255
+Reply from 192.168.1.2: bytes=32 time<1ms TTL=255
+Reply from 192.168.1.2: bytes=32 time=1ms TTL=255
+
+Ping statistics for 192.168.1.2:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+~~~
