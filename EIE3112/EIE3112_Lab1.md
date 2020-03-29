@@ -156,3 +156,7 @@ into table `productinorder` Fields Terminated by ',' Enclosed
 by '"'
 Lines terminated by '\r\n' starting by '';
 ~~~
+~~~
+USE Lab1;
+SELECT * FROM `Customer`;
+~~~
