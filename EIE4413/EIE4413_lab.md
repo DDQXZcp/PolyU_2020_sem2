@@ -180,7 +180,7 @@ y = conv(x,h)
 X = fft(x,16)
 H = fft(h,16)
 XH = X.*H
-Y=fft(y)
+Y=fft(y,16)
 a1=abs(XH)
 a2=abs(Y)
 a3=mean((a1-a2).^2)
@@ -317,3 +317,23 @@ a3 =
    5.1778e-28
 ~~~
 5.1778e-28 is nearly zero. We can conlude that they are the same
+## Change to 32
+~~~
+x = [1,2,3,4,5,6,5,4,3,2,1,1]
+h = [1,4,6,4,1]
+y = conv(x,h)
+X = fft(x,32)
+H = fft(h,32)
+XH = X.*H
+Y=fft(y,32)
+a1=abs(XH)
+a2=abs(Y)
+a3=mean((a1-a2).^2)
+~~~
+## Output
+~~~
+a3 =
+
+   4.0724e-28
+~~~
+It is ok
