@@ -140,3 +140,4 @@ subplot(515)
 stem(X5)
 ~~~
 ## Output
+![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE4413/Lab1_Q1_3.png)
