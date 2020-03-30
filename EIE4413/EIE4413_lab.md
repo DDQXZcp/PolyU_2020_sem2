@@ -337,3 +337,19 @@ a3 =
    4.0724e-28
 ~~~
 It is ok
+## Q2.3
+~~~
+tic
+x = randn(1,102500); 
+h = randn(1,1024); 
+y = conv(x,h); 
+t1 = toc
+~~~
+## Output
+~~~
+>> run('C:\Users\17083046d\Documents\Lab1Q3_3.m')
+
+t1 =
+
+    0.0055
+~~~
