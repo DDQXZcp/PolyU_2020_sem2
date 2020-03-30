@@ -141,3 +141,34 @@ stem(X5)
 ~~~
 ## Output
 ![image](https://github.com/DDQXZcp/PolyU_2020_sem2/blob/master/EIE4413/Lab1_Q1_3.png)
+
+## Q2.1
+~~~
+x = [1,2,3,4,5,6,5,4,3,2,1,1]
+h = [1,4,6,4,1]
+y = conv(x,h)
+~~~
+## Output
+~~~
+>> run('C:\Users\17083046d\Documents\MATLAB\Lab1_17083046d_Q2_1.m')
+
+x =
+
+     1     2     3     4     5     6     5     4     3     2     1     1
+
+
+h =
+
+     1     4     6     4     1
+
+
+y =
+
+  Columns 1 through 13
+
+     1     6    17    32    48    64    78    84    78    64    48    33    21
+
+  Columns 14 through 16
+
+    12     5     1
+~~~
