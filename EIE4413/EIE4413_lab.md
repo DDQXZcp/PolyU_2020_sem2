@@ -12,6 +12,29 @@ https://vscc.polyu.edu.hk/RDWeb/Pages/en-US/desktops.aspx
 Just have a try.
 
 Daniel Lun
+## Q1.1
+~~~
+x = rand(1,65536);	% Define a random vector x with 65536 elements
+y = rand(1,65213);	% Define a random vector y with 65213 elements
+tic				% Start to count
+fft(x);
+t1 = toc			% Record the finish time
+
+tic		 		% Start to count
+fft(y);
+t2 = toc			% Record the finish time
+~~~
+## Output
+~~~
+t1 =
+
+    0.0012
+
+
+t2 =
+
+    0.0073
+~~~
 ## Q1.2
 ~~~
 x1 = [1,1,1,1,0,0,0,0]
