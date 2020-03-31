@@ -18,6 +18,7 @@ EIE3112 Flipped classroom
 |Lecture video CH4 |(completed)|
 |Lecture video CH5 |(completed)|
 |e_tutorial CH2| (completed)|
+|CH7 Tutorial| (completed)|
 
 # EIE3331: Communication Fundamentals
 
@@ -27,7 +28,8 @@ EIE3112 Flipped classroom
 |Lecture 2 revision |(completed)|
 |Lecture 3 revision |(incomplete)|
 |Tutorial 1 |(complete)|
-|Tutorial 2 |(incomplete)|
+|Tutorial 2 |(complete)|
+|Test 1, 20200330, 8/10 |(complete)|
 
 # EIE3333: Data and Computer Communications
 
@@ -41,8 +43,9 @@ EIE3112 Flipped classroom
 |Tutorial 3 |(complete)|
 |Tutorial 4 |(complete)|
 |Assignment, March 13|(complete)|
-|Lab, March 27|(incomplete)|
-|Midterm Past paper, March 27|(imcomplete)|
+|Lab1, March 27|(complete)|
+|Midterm,March 27|(complete)|
+|Lab2, April 3|(complete)|
 
 # EIE3112: Database System
 
@@ -56,6 +59,7 @@ EIE3112 Flipped classroom
 |Tutorial 2 |(complete)|
 |Tutorial 3 |(complete)|
 |VideoAssignment, March 11 23:59 |(complete)|
+|Lab1, April 1 |(incomplete)|
 
 # EIE4413: Digital Signal Processing
 
@@ -72,7 +76,11 @@ EIE3112 Flipped classroom
 |Quiz 3 |(complete)|
 |Quiz 4 |(complete)|
 |Quiz 5, March 13 |(complete)|
+|Quiz 6|(complete)|
+|Quiz 7|(complete)|
 |Assignment1, March 19 |(complete)|
+|Quiz 8, March 31 |(incomplete)|
+|Lab1, March 31 |(incomplete)|
 
 # EIE3105: Integrated Project
 
@@ -113,16 +121,16 @@ Collect Robocon participation from Frank(incomplete)
 Paper Reading
 | Task|Process|
 | ----|----|
-|2012|(incomplete)|
-|2016|(incomplete)|
+|2012|(complete)|
+|2016|(complete)|
 |2017|(complete)|
 
 Project Proposal
 | Task|Detail|Process|
 | ----|----|----|
-|Project Proposal | Check requirement|(incomplete)|
-|Project Proposal | Conventional Technique|(incomplete)|
-|Project Proposal | Machine learning Technique|(incomplete)|
+|Project Proposal | Check requirement|(complete)|
+|Project Proposal | Conventional Technique|(complete)|
+|Project Proposal | Machine learning Technique|(complete)|
 做笔记
 
 # EIE522
@@ -153,7 +161,7 @@ GRE单词书 4000词背完
 | ----|----|----|
 |天文台申请|Application form|(completed)|
 |天文台申请|Send transcript|(completed)|
-|solutionforest|Application form|(incompleted)|
+|solutionforest|Application form|(completed)|
 
 天文台 29 April 2020前出结果 email:17083046d@connect.polyu.hk
 
@@ -176,5 +184,5 @@ Confirmed Minutes of Student/Staff Consultative Group Meeting
 
 | Task|Process|
 | ----|----|
-|Standford Algorithm generate certificate, March 27| (incomplete)
+|Standford Algorithm generate certificate, March 27| (complete)
 
