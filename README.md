@@ -161,8 +161,8 @@ GRE单词书 4000词背完
 
 | Task|Link|Process|
 | ----|----|----|
-|Societe Generale|KYC New Business Onboarding|(completed)|
-|VTech申请|https://www.vtech.com/en/job_opportunities/software-engineering-intern/|(incompleted)|
+|Societe Generale|KYC New Business Onboarding|(Rejected)|
+|VTech申请|https://www.vtech.com/en/job_opportunities/software-engineering-intern/|(completed)|
 |WSP申请|https://www.wsp.com/en-CN/careers/graduates/interns-hk|(incompleted)|
 |Disney申请|https://jobs.disneycareers.com/job/lantau-island/professional-internships-2020/391/15123741|(incompleted)|
 
