@@ -81,6 +81,7 @@ EIE3112 Flipped classroom
 |Assignment1, March 19 |(complete)|
 |Quiz 8, March 31 |(incomplete)|
 |Lab1, March 31 |(incomplete)|
+|Matlab install |(incomplete)|
 
 # EIE3105: Integrated Project
 
@@ -186,3 +187,10 @@ Confirmed Minutes of Student/Staff Consultative Group Meeting
 | ----|----|
 |Standford Algorithm generate certificate, March 27| (complete)
 
+## Bao bao
+
+| Task|Process|
+| ----|----|
+|买花11支| (incomplete)|
+|买衣服| (incomplete)|
+|买投影仪| (incomplete)|
