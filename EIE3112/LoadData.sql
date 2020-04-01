@@ -1,3 +1,10 @@
+SET GLOBAL local_infile = 'ON';
+
+SHOW VARIABLES LIKE "local_infile"; 
+
+SHOW VARIABLES LIKE "secure_file_priv";
+
+
 Set FOREIGN_KEY_CHECKS = 0;
 Load data infile "C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Customer.txt"
 into table `customer` Fields Terminated by ',' Enclosed
