@@ -353,3 +353,15 @@ t1 =
 
     0.0055
 ~~~
+
+## From LGQ
+
+~~~
+x = randn(1,102500); h = randn(1,1024); y = conv(x,h);
+
+tic; L = 1025; k = 100; y3 = zeros(1,103523);
+
+H = fft(h, 2048);
+
+for i = 1 : k xs = x((L.(i-1))+1 : L.i); Xs = fft(xs, 2048); yr = ifft(Xs.H); y3((L.(i-1))+1 : (L.(i-1))+2048) = y3((L.(i-1))+1 : (L.*(i-1))+2048) + yr; end t = toc; err = immse(y, y3);
+~~~
