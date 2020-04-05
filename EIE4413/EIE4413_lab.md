@@ -365,3 +365,15 @@ H = fft(h, 2048);
 
 for i = 1 : k xs = x((L.(i-1))+1 : L.i); Xs = fft(xs, 2048); yr = ifft(Xs.H); y3((L.(i-1))+1 : (L.(i-1))+2048) = y3((L.(i-1))+1 : (L.*(i-1))+2048) + yr; end t = toc; err = immse(y, y3);
 ~~~
+
+~~~
+Q 2.4 Source Code:
+
+h = [1 4 6 4 1]/16 H = fft (h, 100) Ha = angle (H) Hm = abs (H) subplot (211) stem (Ha) subplot (212) stem (Hm)
+
+If the sampling frequency fs = 8000Hz, from the magnitude spectrum, the bandwidth of the filter is approximately 13*8000/100 = 1040Hz.
+
+Q 2.5 (b) Source code:
+
+X = fft (xx, 100) y = ifft (X.*H) plot (y)
+~~~
