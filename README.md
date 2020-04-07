@@ -19,6 +19,8 @@ EIE3112 Flipped classroom
 |Lecture video CH5 |(completed)|
 |e_tutorial CH2| (completed)|
 |CH7 Tutorial| (completed)|
+|CH8&9 Tutorial| (completed)|
+|CH10 Tutorial| (completed)|
 
 # EIE3331: Communication Fundamentals
 
@@ -30,6 +32,7 @@ EIE3112 Flipped classroom
 |Tutorial 1 |(complete)|
 |Tutorial 2 |(complete)|
 |Test 1, 20200330, 8/10 |(complete)|
+|Test 2, 20200420 |(complete)|
 
 # EIE3333: Data and Computer Communications
 
@@ -46,6 +49,7 @@ EIE3112 Flipped classroom
 |Lab1, March 27|(complete)|
 |Midterm,March 27|(complete)|
 |Lab2, April 3|(complete)|
+|Lab3, April 10|(complete)|
 
 # EIE3112: Database System
 
@@ -59,7 +63,8 @@ EIE3112 Flipped classroom
 |Tutorial 2 |(complete)|
 |Tutorial 3 |(complete)|
 |VideoAssignment, March 11 23:59 |(complete)|
-|Lab1, April 1 |(incomplete)|
+|Lab1, April 1 |(complete)|
+|Lab1, April 8 |(complete)|
 
 # EIE4413: Digital Signal Processing
 
@@ -79,14 +84,14 @@ EIE3112 Flipped classroom
 |Quiz 6|(complete)|
 |Quiz 7|(complete)|
 |Assignment1, March 19 |(complete)|
-|Quiz 8, March 31 |(incomplete)|
-|Lab1, March 31 |(incomplete)|
+|Quiz 8, March 31 |(complete)|
+|Lab1, March 31 |(complete)|
 |Matlab install |(incomplete)|
 
-# EIE3105: Integrated Project
+# EIE3105: Integrated Project(delay)
 
 
-# IC382: Multidisciplinary Manufacturing Project
+# IC382: Multidisciplinary Manufacturing Project(delay)
 | Task|Process|
 | ----|----|
 |Motor| (complete)|
@@ -177,6 +182,10 @@ GRE单词书 4000词背完
 
 错过了IBM，错过了Hong Kong Monetary Authority, WSP 没有找到对应的open position和联系人, 放弃Disney 因为要6个月for technology
 
+# Mainland WIE
+
+check 早实习
+
 # EIE Activity
 
 Confirmed Minutes of Student/Staff Consultative Group Meeting
@@ -185,9 +194,24 @@ Confirmed Minutes of Student/Staff Consultative Group Meeting
 
 | Task|Process|
 | ----|----|
-|Standford Algorithm generate certificate, March 27| (complete)
+|Standford Algorithm generate certificate, March 27| (complete)|
 
-## Bao bao
+# GRE KMF
+
+| Task|Process|
+| ----|----|
+|Week 20200407 practice eng| 0/5|
+|Week 20200407 practice math| 0/5|
+|Week 20200407 practice writing| 0/5|
+
+# TOFEL KMF
+
+| Task|Process|
+| ----|----|
+|Week 20200407 practice speaking| 0/5|
+|Week 20200407 practice writing| 0/5|
+
+# Bao bao
 
 | Task|Process|
 | ----|----|
