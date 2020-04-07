@@ -488,3 +488,30 @@ channel 0 -> channel 1 -> channel 4 -> channel 0 ...
 High (it does not matter)
 
 We will make use of the interrupt handler（就像状态机一样，可以用if实现）
+
+# 20200407
+
+Add/drop period is 30 Apr
+
+15:33
+Take 30 Apr is the deadline
+
+15:46
+kernel = a small operating system
+
+15:48
+SPI communication works with a shift register is a very popular setting in hardware application
+
+15:49
+Without the shift register, the microcontroller must connect each external device by a GPIO
+
+It wastes a lot of resources (GPIO pins) and CPU time to monitor each pin
+
+15:50
+8 phototransistors -> 8 GPIO pins
+
+15:50
+if we do not have a shift register
+
+15:50
+microcontroller < -> shift register <-> external devices
