@@ -544,3 +544,47 @@ ReceiveData <= phtototrnasistor data
 
 15:57
 shift the bit to the right position
+
+Then finally 8-bit sensorValue contains 8-bit data from 8 phototransistors
+
+15:59
+go home to watch the video
+
+16:00
+it is good to explain what is PID
+
+16:03
+Skip the PID in turning in this project
+
+16:03
+But, in real life, yes, we need PIDC in turning too
+
+16:04
+Formula 1 has to take care of it
+
+16:04
+hall sensor to monitor the speed of a wheel
+
+16:06
+Divide the whole thing by 72MHz
+
+16:08
+I[k] = integration (sum of error)
+
+16:08
+D[k] = differentiation (error difference)
+
+16:09
+c[k]/P[k] = relative velocity of your car
+
+16:11
+Kp: between 100 and 1000 (500, 750)
+
+16:11
+KI: 0.0005
+
+16:12
+KD: between 1 and 10 (must be less than 100)
+
+16:13
+Kp can tell you car finally moves on a straight line or not
