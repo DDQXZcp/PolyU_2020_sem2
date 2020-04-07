@@ -515,3 +515,32 @@ if we do not have a shift register
 
 15:50
 microcontroller < -> shift register <-> external devices
+
+We simply use SPI2 to monitor all external devices with a shift register
+
+15:54
+Pb12 acts as a status variable
+
+15:54
+GPIO_Read ... => PB12 == 1
+
+15:54
+GPIO_Reset.. => PB12 = 0
+
+15:55
+GPIO_Set... => PB12 = 1
+
+15:55
+Set data 0xFF (111111111) to S1
+
+15:55
+S1 = H
+
+15:56
+Parallel load
+
+15:56
+ReceiveData <= phtototrnasistor data
+
+15:57
+shift the bit to the right position
