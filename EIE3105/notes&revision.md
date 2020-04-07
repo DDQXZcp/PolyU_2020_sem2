@@ -588,3 +588,40 @@ KD: between 1 and 10 (must be less than 100)
 
 16:13
 Kp can tell you car finally moves on a straight line or not
+
+KI can tell your car will not follow other lines
+
+16:14
+KI can help the car back to the original line
+
+16:14
+KD can help your car moving smoothly
+
+16:15
+the speeds of two wheels are roughly and physically the same
+
+16:15
+we need a PID to control two wheels together
+
+16:17
+PID control code can be found in Blackboard
+
+16:17
+Information for Robot Car Development
+
+16:18
+You can make use of the program code but you still need to fine-turn Kp, KI and KD by yourself
+
+16:18
+and also K'p, K'I and K'D
+
+16:20
+bye
+
+16:20
+see you
+
+Chi Chung CHEUNG
+16:20
+
+Hope to see you all soon
