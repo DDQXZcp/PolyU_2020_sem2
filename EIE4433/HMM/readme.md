@@ -39,3 +39,15 @@ Example:
     'Sunny' : {'walk': 0.6, 'shop': 0.3, 'clean': 0.1},
     }
 ~~~
+
+### Python package hmmlearn
+
+There are three fundamental problems for HMMs:
+
+1. Given the model parameters and observed data, estimate the optimal sequence of hidden states.
+
+2. Given the model parameters and observed data, calculate the model likelihood.
+
+3. Given just the observed data, estimate the model parameters.
+
+The first and the second problem can be solved by the dynamic programming algorithms known as the Viterbi algorithm and the Forward-Backward algorithm, respectively. The last one can be solved by an iterative Expectation-Maximization (EM) algorithm, known as the Baum-Welch algorithm.
