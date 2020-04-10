@@ -1,5 +1,13 @@
 # Note of Essay
 
+## Target
+
+Around 10 techniques 
+
+Source Code of general function, library or package. Implement part of the code.
+
+Implement 7 techniques
+
 ## Archive Film Defect Detection and Removal: An Automatic Restoration Framework
 
 The system is composed of mainly two modules: defect detection and defect removal
