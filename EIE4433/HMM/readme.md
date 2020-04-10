@@ -51,3 +51,7 @@ There are three fundamental problems for HMMs:
 3. Given just the observed data, estimate the model parameters.
 
 The first and the second problem can be solved by the dynamic programming algorithms known as the Viterbi algorithm and the Forward-Backward algorithm, respectively. The last one can be solved by an iterative Expectation-Maximization (EM) algorithm, known as the Baum-Welch algorithm.
+
+### pdf from standford
+
+https://web.stanford.edu/~jurafsky/slp3/A.pdf
