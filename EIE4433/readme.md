@@ -8,6 +8,8 @@ Source Code of general function, library or package. Implement part of the code.
 
 Implement 7 techniques
 
+Write 10-15 pages literature review and use 1/4 to describe one technique
+
 ## Archive Film Defect Detection and Removal: An Automatic Restoration Framework
 
 The system is composed of mainly two modules: defect detection and defect removal
