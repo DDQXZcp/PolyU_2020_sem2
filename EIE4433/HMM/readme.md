@@ -9,6 +9,10 @@ https://en.wikipedia.org/wiki/Probability_space
 
 ### Markov process
 
+### HMM learn chinese version
+
+https://www.cnblogs.com/pinard/p/6945257.html
+
 ### HMM
 
 https://en.wikipedia.org/wiki/Hidden_Markov_model
