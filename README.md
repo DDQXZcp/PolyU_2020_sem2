@@ -66,7 +66,7 @@ EIE3112 Flipped classroom
 |Tutorial 3 |(complete)|
 |VideoAssignment, March 11 23:59 |(complete)|
 |Lab1, April 1 |(complete)|
-|Lab1, April 8 |(complete)|
+|Lab2, April 8 |(complete)|
 
 # EIE4413: Digital Signal Processing
 
@@ -86,6 +86,7 @@ EIE3112 Flipped classroom
 |Quiz 6|(complete)|
 |Quiz 7|(complete)|
 |Assignment1, March 19 |(complete)|
+|Test1, 69/100 |(complete)|
 |Quiz 8, March 31 |(complete)|
 |Lab1, March 31 |(complete)|
 |Matlab install |(incomplete)|
@@ -147,12 +148,13 @@ Project Proposal
 | ----|----|
 |PCA| (complete)|
 |LDA| (complete)|
+|hmmlearn algorithm| (incomplete)|
 
 # GRE
 
 GRE单词书 4000词背完
 
-# Japan WIE
+# Japan WIE (Closed due to virus)
 
 | Task|Process|
 | ----|----|
@@ -179,8 +181,8 @@ GRE单词书 4000词背完
 | ----|----|----|
 |Societe Generale|KYC New Business Onboarding|(Rejected)|
 |VTech申请|https://www.vtech.com/en/job_opportunities/software-engineering-intern/|(completed)|
-|WSP申请|https://www.wsp.com/en-CN/careers/graduates/interns-hk|(incompleted)|
-|Disney申请|https://jobs.disneycareers.com/job/lantau-island/professional-internships-2020/391/15123741|(incompleted)|
+|WSP申请|https://www.wsp.com/en-CN/careers/graduates/interns-hk|(Discard)|
+|Disney申请|https://jobs.disneycareers.com/job/lantau-island/professional-internships-2020/391/15123741|(Discard)|
 
 错过了IBM，错过了Hong Kong Monetary Authority, WSP 没有找到对应的open position和联系人, 放弃Disney 因为要6个月for technology
 
@@ -190,7 +192,7 @@ check 早实习
 
 # EIE Activity
 
-Confirmed Minutes of Student/Staff Consultative Group Meeting
+Confirmed Minutes of Student/Staff Consultative Group Meeting(Discard)
 
 # Online course
 
