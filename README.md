@@ -18,9 +18,11 @@ EIE3112 Flipped classroom
 |Lecture video CH4 |(completed)|
 |Lecture video CH5 |(completed)|
 |e_tutorial CH2| (completed)|
+|CH4 Tutorial| (completed)|
+|CH5 Tutorial| (completed)|
 |CH7 Tutorial| (completed)|
-|CH8&9 Tutorial| (completed)|
-|CH10 Tutorial| (completed)|
+|CH8&9 Tutorial| (incompleted)|
+|CH10 Tutorial| (incompleted)|
 
 # EIE3331: Communication Fundamentals
 
