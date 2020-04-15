@@ -65,6 +65,7 @@ EIE3112 Flipped classroom
 |Tutorial 2 |(complete)|
 |Tutorial 3 |(complete)|
 |VideoAssignment, March 11 23:59 |(complete)|
+|Midterm, 4月底 |(complete)|
 |Lab1, April 1 |(complete)|
 |Lab2, April 8 |(complete)|
 
