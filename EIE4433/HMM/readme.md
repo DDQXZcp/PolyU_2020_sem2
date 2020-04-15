@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Probability_space
 
 ### discrete-time stochastic processes
 
-### Markov process
+### hmmlearn
 
 概率图模型之隐马尔可夫模型（下）
 
@@ -16,6 +16,8 @@ https://zhuanlan.zhihu.com/p/30279774
 Derivation and implementation of Baum Welch Algorithm for Hidden Markov Model
 
 http://www.adeveloperdiary.com/data-science/machine-learning/derivation-and-implementation-of-baum-welch-algorithm-for-hidden-markov-model/
+
+https://hmmlearn.readthedocs.io/en/latest/tutorial.html
 
 ### HMM learn chinese version
 
