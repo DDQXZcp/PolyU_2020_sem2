@@ -13,6 +13,10 @@ https://en.wikipedia.org/wiki/Probability_space
 
 https://zhuanlan.zhihu.com/p/30279774
 
+Derivation and implementation of Baum Welch Algorithm for Hidden Markov Model
+
+http://www.adeveloperdiary.com/data-science/machine-learning/derivation-and-implementation-of-baum-welch-algorithm-for-hidden-markov-model/
+
 ### HMM learn chinese version
 
 https://www.cnblogs.com/pinard/p/6945257.html
