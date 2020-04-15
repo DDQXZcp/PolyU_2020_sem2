@@ -9,6 +9,10 @@ https://en.wikipedia.org/wiki/Probability_space
 
 ### Markov process
 
+概率图模型之隐马尔可夫模型（下）
+
+https://zhuanlan.zhihu.com/p/30279774
+
 ### HMM learn chinese version
 
 https://www.cnblogs.com/pinard/p/6945257.html
