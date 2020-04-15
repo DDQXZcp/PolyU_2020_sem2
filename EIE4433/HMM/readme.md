@@ -17,7 +17,7 @@ Derivation and implementation of Baum Welch Algorithm for Hidden Markov Model
 
 http://www.adeveloperdiary.com/data-science/machine-learning/derivation-and-implementation-of-baum-welch-algorithm-for-hidden-markov-model/
 
-https://hmmlearn.readthedocs.io/en/latest/tutorial.html
+https://hmmlearn.readthedocs.io/en/latest/tutorial.html#training-hmm-parameters-and-inferring-the-hidden-states
 
 ### HMM learn chinese version
 
