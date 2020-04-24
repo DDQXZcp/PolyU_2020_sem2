@@ -104,7 +104,7 @@ Quizzes conducted in lectures and tutorial classes
 
 3 demos and 3 lab reports
 
-### Mid-term Quiz 1 10%
+### Mid-term Quiz 1 10% 69/100
 
 Held in the middle of semester. Cover about half of the topics. Students are allowed to use an A4 size clue sheet in the quiz.
 
