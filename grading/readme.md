@@ -33,6 +33,7 @@ Laboratory – 10%
 
 Final Exam – 50%
 
+Score still have - 96/100
 
 # EIE3333: Data and Computer Communications
 
@@ -50,6 +51,8 @@ Final Examination (3 hours) 60%
 clue sheet is allowed)
 
 outline: dcc2020-lecture00 - Class B(1).pdf
+
+Score still have - 98.9/100
 
 # EIE3112: Database System
 
