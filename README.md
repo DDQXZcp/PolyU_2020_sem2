@@ -7,6 +7,14 @@ PolyU_2020_sem2 revision note
 
 每一节上课后都写一次回顾，看看自己记得多少
 
+Apr.27 DB mid-term Test； DB Lab3 DDL
+May.1 DCC Asm2 DDL
+May.3 DSP Lab2 DDL
+May.6 DB video asm DDL
+May.15 CF Asm DDL;    DCC Test2
+May.13 DSP Test 2
+May.22 DCC Final test
+
 ### 20200225
 EIE3112 Flipped classroom
 
