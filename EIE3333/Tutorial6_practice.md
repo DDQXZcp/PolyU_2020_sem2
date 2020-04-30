@@ -42,3 +42,18 @@ Choose a random number R between 0 and 2^k-1
 
 Wait Tb Time, Tb = R*Tp. Tp is maximum propagation time
 
+### (Question) 8. What is the time required for a station to ensure that its transmission is successful in CSMA?
+
+2*Tp + 2Tf?
+
+### 9. Compare and contrast a random access protocol with a controlled access protocol
+
+In a random access method, there is no control; access is based on contention. In a controlled access method, either a central authority (in polling) or other stations (in reservation and token passing) control the access. Random access methods have less administration overhead. On the other hand, controlled access method are collision free.
+
+### 10. Compare and contrast a random access protocol with a channelizing protocol.
+
+In a random access method, the whole available bandwidth belongs to the station that wins the contention; the other stations needs to wait. In a channelization method, the available bandwidth is divided between the stations. If a station does not have data to send, the allocated channel remains idle.
+
+### 11. Compare and contrast a controlled access protocol with a channelizing protocol.
+
+In a controlled access method, the whole available bandwidth belongs to the station that is granted permission either by a central authority or by other stations. In a channelization method, the available bandwidth is divided between the stations. If a station does not have data to send the allocated channel remains idle.
