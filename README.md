@@ -17,10 +17,10 @@ PolyU_2020_sem2 revision note
 |May.6 AF3313 assignment|(To do)|
 |May.11 CF Test4|(To do)|
 |May.13 DB Test 2|(To do)|
+|May.13 DSP Test 2|(To do)|
 |May.15 CF Asm DDL; |(To do)|
 |May.15 DCC Test2|(To do)|
 |May.18 CF Final|(To do)|
-|May.13 DSP Test 2|(To do)|
 |May.21 DSP Final test|(To do)|
 |May.22 DCC Final test|(To do)|
 
