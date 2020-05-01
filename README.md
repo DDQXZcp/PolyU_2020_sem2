@@ -7,13 +7,22 @@ PolyU_2020_sem2 revision note
 
 每一节上课后都写一次回顾，看看自己记得多少
 
-Apr.27 DB mid-term Test； DB Lab3 DDL
-May.1 DCC Asm2 DDL
-May.3 DSP Lab2 DDL
-May.6 DB video asm DDL
-May.15 CF Asm DDL;    DCC Test2
-May.13 DSP Test 2
-May.22 DCC Final test
+| Task|Process|
+| ----|----|
+|Apr.27 DB mid-term Test；DB Lab3 DDL|(complete)|
+|May.1 DCC Asm2 DDL|(complete)|
+|May.3 DSP Lab2 DDL|(complete)|
+|May.4 CF Test3|(To do)|
+|May.6 DB video asm DDL|(To do)|
+|May.6 AF3313 assignment|(To do)|
+|May.11 CF Test4|(To do)|
+|May.13 DB Test 2|(To do)|
+|May.15 CF Asm DDL; |(To do)|
+|May.15 DCC Test2|(To do)|
+|May.18 CF Final|(To do)|
+|May.13 DSP Test 2|(To do)|
+|May.21 DSP Final test|(To do)|
+|May.22 DCC Final test|(To do)|
 
 ### 20200225
 EIE3112 Flipped classroom
