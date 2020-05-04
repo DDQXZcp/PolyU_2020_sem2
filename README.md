@@ -7,6 +7,9 @@ PolyU_2020_sem2 revision note
 
 每一节上课后都写一次回顾，看看自己记得多少
 
+意识到注意力开始涣散的时候，可以闭目养神，不想任何东西。
+机器要散热，脑子也需要放松。
+
 | Task|Process|
 | ----|----|
 |Apr.27 DB mid-term Test；DB Lab3 DDL|(complete)|
