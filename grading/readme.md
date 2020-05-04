@@ -33,7 +33,7 @@ Laboratory – 10%
 
 Final Exam – 50%
 
-Score still have - 96/100
+Score still have - 94/100
 
 # EIE3333: Data and Computer Communications
 
