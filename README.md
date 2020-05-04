@@ -56,6 +56,8 @@ EIE3112 Flipped classroom
 |Test 1, 20200330, 8/10 |(complete)|
 |Test 2, 20200420 |(complete)|
 
+The test format will be similar to the test.
+
 # EIE3333: Data and Computer Communications
 
 | Task|Process|
