@@ -18,6 +18,7 @@ PolyU_2020_sem2 revision note
 |May.4 CF Test3|(To do)|
 |May.6 DB video asm DDL|(To do)|
 |May.6 AF3313 assignment|(To do)|
+|May.10 DSP assignment|(To do)|
 |May.11 CF Test4|(To do)|
 |May.13 DB Test 2|(To do)|
 |May.13 DSP Test 2|(To do)|
