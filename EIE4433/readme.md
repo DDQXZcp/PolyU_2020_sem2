@@ -33,3 +33,7 @@ Because there are Falsed alarms near moving edge
 https://www.cnblogs.com/adaminxie/p/9032224.html
 
 不用原生的pip
+
+# pytorch install
+
+https://zhuanlan.zhihu.com/p/54350088
