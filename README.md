@@ -33,6 +33,10 @@ PolyU_2020_sem2 revision note
 |申请year4宿舍,C202004344|(complete)|
 |申请summer宿舍,C202006894|(complete)|
 |申请4413八月考试|(complete)|
+申请 wie
+
+solution forest
+
 ### 20200225
 EIE3112 Flipped classroom
 
