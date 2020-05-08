@@ -16,8 +16,8 @@ PolyU_2020_sem2 revision note
 |May.1 DCC Asm2 DDL|(complete)|
 |May.3 DSP Lab2 DDL|(complete)|
 |May.4 CF Test3|(complete)|
-|May.6 DB video asm DDL|(To do)|
-|May.8 5pm AF3313 assignment|(To do)|
+|May.6 DB video asm DDL|(Complete)|
+|May.8 5pm AF3313 assignment|(Complete)|
 |May.10 DSP assignment|(To do)|
 |May.11 CF Test4|(To do)|
 |May.13 DB Test 2|(To do)|
@@ -44,6 +44,8 @@ EIE3112 Flipped classroom
 |CH7 Tutorial| (completed)|
 |CH8&9 Tutorial| (incompleted)|
 |CH10 Tutorial| (incompleted)|
+|Assginment, report, CC|(complete)|
+
 
 # EIE3331: Communication Fundamentals
 
