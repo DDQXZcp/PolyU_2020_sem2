@@ -28,6 +28,11 @@ PolyU_2020_sem2 revision note
 |May.21 DSP Final test|(To do)|
 |May.22 DCC Final test|(To do)|
 
+| 学校事务|Process|
+| ----|----|
+|申请year4宿舍,C202004344|(complete)|
+|申请summer宿舍,C202006894|(complete)|
+|申请4413八月考试|(complete)|
 ### 20200225
 EIE3112 Flipped classroom
 
