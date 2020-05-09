@@ -1,0 +1,94 @@
+:root {
+  font-size: 14px;
+}
+a {
+text-decoration:none;
+color:#9AACFF !important;
+}
+.hero {
+  background-image: url('./Interview2/logo.png');
+  background-size: 220px 27.5px;
+  width: 100%;
+  height: 3.5rem; 
+  background-position: center;
+  position: sticky;
+  top: 0;
+  background-clip: content-box;
+  background-repeat: no-repeat;
+  background-color: white;
+  z-index: 1;
+}
+.carousel-item > img {/* > :child, space :child and child's ...*/
+  height: 33vh;
+}
+.goods-list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  flex-flow: column nowrap;
+  list-style: none;
+}
+.good {
+  background-color: white;
+  padding: 0 3em 0 0; /*height = 6, width = 12* clock wise*/
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  /*border-bottom: 1px solid grey;*/
+  box-shadow: 0 1px 13px grey;
+}
+.good-image {
+  height: 5em;
+  width: 5em;
+}
+.good-info {
+  line-height: 1.8;
+  font-weight: 600;
+  margin-left: 1em;
+}
+.good::before {
+  content: "";
+  display: inline-block;
+  /*if "100%", depend on good, but also affect good*/
+  width: 1em;
+  align-self: stretch;
+  margin-right: 4em;
+}
+.good:nth-child(2n)::before {
+  background-color: #CAA653;
+  /*background-color: linear-gradient(to bottom , #CAA653, #B18F3A);*/
+}
+.good:nth-child(2n+1)::before {
+  background-color: #03092C;
+}
+.good::after {
+  content: "";
+  display: inline-block;/*block 换行 inline-block默认不会换行*/
+  height: 1.2em;
+  width: 1.2em;
+  border: black solid 2px;
+  border-left-width: 0;
+  border-bottom-width: 0;
+  transform: rotate(45deg);
+  margin-left: auto;/*img default height auto */
+}
+.statement {
+  justify-content: center;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  background-color: #03092C;
+  padding: 1em 0;
+  color:#9AACFF;
+  line-height: 1.8;
+}
+/* align-items只对flex有效
+并且align-items是y轴
+现在是x轴
+除了display：grid以外 
+在其他display的情况下都是不起效果的*/
+
+/*20200509 remain target 
+  渐变色块
+  单独一行字体大小调小
+*/

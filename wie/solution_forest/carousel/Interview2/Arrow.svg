@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="29px" viewBox="0 0 15 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tips-3-Full" transform="translate(-16.000000, -120.000000)" fill="#040A2B">
+            <g id="Menu-Bar" transform="translate(0.000000, 104.000000)">
+                <path d="M19.3286326,30.2640372 L31,42.7453746 L29.3335838,44.527639 L16,30.2695232 L16.0048395,30.264345 L16,30.2591713 L29.3330837,16 L31,17.7820015 L19.3286326,30.2640372 Z" id="Arrow" transform="translate(23.500000, 30.263820) scale(-1, 1) rotate(-180.000000) translate(-23.500000, -30.263820) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
