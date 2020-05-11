@@ -10,6 +10,8 @@ PolyU_2020_sem2 revision note
 意识到注意力开始涣散的时候，可以闭目养神，不想任何东西。
 机器要散热，脑子也需要放松。
 
+养成学习的时候记笔记的习惯。
+
 | Task|Process|
 | ----|----|
 |Apr.27 DB mid-term Test；DB Lab3 DDL|(complete)|
