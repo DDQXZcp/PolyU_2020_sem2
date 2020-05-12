@@ -53,3 +53,10 @@ https://zhuanlan.zhihu.com/p/94220564
 # pytorch for cuda 9.0
 
 https://blog.csdn.net/qq_28413435/article/details/83338551
+
+# Solved
+
+在GeForce experience上下载最新驱动
+下载cuda 10.2
+下载 cudnn for 10.2
+下载pytorch
