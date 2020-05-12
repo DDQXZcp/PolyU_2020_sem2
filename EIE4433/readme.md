@@ -49,3 +49,7 @@ My: GTX1060 9.0.176
 # cuda and cudnn install
 
 https://zhuanlan.zhihu.com/p/94220564
+
+# pytorch for cuda 9.0
+
+https://blog.csdn.net/qq_28413435/article/details/83338551
