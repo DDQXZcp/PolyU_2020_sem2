@@ -57,6 +57,14 @@ https://blog.csdn.net/qq_28413435/article/details/83338551
 # Solved
 
 在GeForce experience上下载最新驱动
-下载cuda 10.2
-下载 cudnn for 10.2
-下载pytorch
+1. 下载cuda 10.2
+2. 下载 cudnn for 10.2, 复制粘贴三个文件到cuda安装目录
+3. 下载pytorch
+4. 查看cuda 版本
+~~~
+nvcc -V
+~~~
+查看显卡驱动 cmd
+~~~
+nvidia-smi
+~~~
