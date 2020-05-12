@@ -45,3 +45,7 @@ https://blog.csdn.net/baidu_26646129/article/details/88380598
 打开设置在搜索里输入控制面板，打开控制面板点击“硬件和声音”选项，然后选择Nvidia面板。 在Nvidia面板中点击帮助，选择系统信息选择组件，找到“NVCUDA.DLL”，即可看到支持的CUDA版本
 
 My: GTX1060 9.0.176
+
+# cuda and cudnn install
+
+https://zhuanlan.zhihu.com/p/94220564
