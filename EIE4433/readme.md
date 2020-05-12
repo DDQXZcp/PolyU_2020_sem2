@@ -37,3 +37,7 @@ https://www.cnblogs.com/adaminxie/p/9032224.html
 # pytorch install
 
 https://zhuanlan.zhihu.com/p/54350088
+
+# pytorch gpu install
+
+https://blog.csdn.net/baidu_26646129/article/details/88380598
