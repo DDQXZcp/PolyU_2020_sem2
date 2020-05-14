@@ -209,6 +209,7 @@ GRE单词书 4000词背完
 |天文台申请|Application form|(completed)|
 |天文台申请|Send transcript|(completed)|
 |天文台申请|Result|(rejected)|
+|CLP申请|Result|(rejected)|
 |solutionforest|Application form|(completed)|
 |solutionforest|Interview|(completed)|
 |solutionforest|Result|6月头出结果|
