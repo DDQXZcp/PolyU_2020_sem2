@@ -224,6 +224,7 @@ GRE单词书 4000词背完
 |VTech申请|https://www.vtech.com/en/job_opportunities/software-engineering-intern/|(completed)|
 |WSP申请|https://www.wsp.com/en-CN/careers/graduates/interns-hk|(Discard)|
 |Disney申请|https://jobs.disneycareers.com/job/lantau-island/professional-internships-2020/391/15123741|(Discard)|
+|HKHS申请|https://www.hkhs.com/en/career_opportunities/career-opportunities|(applied)|
 
 错过了IBM，错过了Hong Kong Monetary Authority, WSP 没有找到对应的open position和联系人, 放弃Disney 因为要6个月for technology
 
