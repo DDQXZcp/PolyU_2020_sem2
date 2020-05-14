@@ -208,7 +208,10 @@ GRE单词书 4000词背完
 | ----|----|----|
 |天文台申请|Application form|(completed)|
 |天文台申请|Send transcript|(completed)|
+|天文台申请|Result|(rejected)|
 |solutionforest|Application form|(completed)|
+|solutionforest|Interview|(completed)|
+|solutionforest|Result|6月头出结果|
 
 天文台 29 April 2020前出结果 email:17083046d@connect.polyu.hk
 
