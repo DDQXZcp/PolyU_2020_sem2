@@ -236,6 +236,8 @@ check 早实习
 
 Confirmed Minutes of Student/Staff Consultative Group Meeting(Discard)
 
+了解一下“华为云杯”？
+
 # Online course
 
 | Task|Process|
