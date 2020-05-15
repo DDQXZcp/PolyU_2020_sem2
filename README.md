@@ -39,6 +39,8 @@ PolyU_2020_sem2 revision note
 
 solution forest
 
+summer term查看
+
 ### 20200225
 EIE3112 Flipped classroom
 
