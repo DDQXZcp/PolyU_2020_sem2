@@ -20,15 +20,16 @@ PolyU_2020_sem2 revision note
 |May.4 CF Test3|(complete)|
 |May.6 DB video asm DDL|(Complete)|
 |May.8 5pm AF3313 assignment|(Complete)|
-|May.10 DSP assignment|(To do)|
-|May.11 CF Test4|(To do)|
-|May.13 DB Test 2|(To do)|
-|May.13 DSP Test 2|(To do)|
-|May.15 CF Asm DDL; |(To do)|
-|May.15 DCC Test2|(To do)|
-|May.18 CF Final|(To do)|
+|May.10 DSP assignment|(Complete)|
+|May.11 CF Test4|(Complete)|
+|May.13 DB Test 2|(Complete)|
+|May.13 DSP Test 2|(Complete)|
+|May.15 CF Asm DDL; |(Complete)|
+|May.15 DCC Test2|(Complete)|
+|May.18 CF Final|(Complete)|
 |May.21 DSP Final test|(To do)|
 |May.22 DCC Final test|(To do)|
+|May.25 DSP Lab3|(To do)|
 
 | 学校事务|Process|
 | ----|----|
