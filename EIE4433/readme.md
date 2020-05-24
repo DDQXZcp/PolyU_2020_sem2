@@ -68,3 +68,8 @@ nvcc -V
 ~~~
 nvidia-smi
 ~~~
+
+# Pytorch hmm
+https://zhuanlan.zhihu.com/p/44042528
+
+https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html
