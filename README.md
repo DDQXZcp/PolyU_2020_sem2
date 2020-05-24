@@ -276,3 +276,5 @@ Confirmed Minutes of Student/Staff Consultative Group Meeting(Discard)
 |买花11支| (incomplete)|
 |买衣服| (incomplete)|
 |买投影仪| (incomplete)|
+|儿童节买棒棒糖| (incomplete)|
+|儿童节买气球| (incomplete)|
