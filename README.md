@@ -218,10 +218,17 @@ GRE单词书 4000词背完
 |solutionforest|Result|6月头出结果|
 |HKSAR foor and environment(May 24)|Application form|(incompleted)|
 |HKSAR leisure and cultural services(May 24)|Application form|(incompleted)|
-|Pokeguide(May 24)|Application form|(incompleted)|
+|Pokeguide(May 24)|Application form|(completed)|
 |Otis elevator(May 30)|Application form|(incompleted)|
-|Cosco-hit(May 31)|Application form|(incompleted)|
-|Bank of China(May 31)|Application form|(incompleted)|
+|Cosco-hit(May 31)|Application form|(completed)|
+|Bank of China(May 31)|Application form|(completed)|
+|Cisco|Application form|(completed)|
+|Bridgeway|Application form|(completed)|
+|XDream|Application form|(completed)|
+|Lane Crow|Application form|(incompleted)|
+|Datago|Application form|(incompleted)|
+|Infotronic Technology Limited|Application form|(incompleted)|
+|flow entertainment|Application form|(incompleted)|
 |iTech(June 30)|Application form|(incompleted)|
 
 天文台 29 April 2020前出结果 email:17083046d@connect.polyu.hk
